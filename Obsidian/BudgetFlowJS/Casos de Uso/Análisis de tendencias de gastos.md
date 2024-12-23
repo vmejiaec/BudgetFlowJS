@@ -1,0 +1,1 @@
+El sistema analiza los gastos y proporciona información sobre las categorías donde más se gasta, con sugerencias para mejorar el control del presupuesto.

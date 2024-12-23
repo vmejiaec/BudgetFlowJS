@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "cccd8402d5f4b9dc",
+    "type": "split",
+    "children": [
+      {
+        "id": "403930f43e0881cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8f5d75b77ba7e999",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistema BudgetFlow.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sistema BudgetFlow"
+            }
+          }
+        ]
+      },
+      {
+        "id": "d9e793b3725c575d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9c7c2c31ad5223a9",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "Vista gráfica"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b906f64387027412",
+    "type": "split",
+    "children": [
+      {
+        "id": "667ba30306346af0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "27469385e4f2b8af",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "619a588652eb2992",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "192d42b205c459f4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "654e19e276a8212a",
+    "type": "split",
+    "children": [
+      {
+        "id": "7419a19bea690b92",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eedcefcd77415e46",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sistema BudgetFlow.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de Sistema BudgetFlow"
+            }
+          },
+          {
+            "id": "2d1b90837407eb30",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sistema BudgetFlow.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de Sistema BudgetFlow"
+            }
+          },
+          {
+            "id": "089a2c46bfc23ad2",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "32ffe6d468751874",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sistema BudgetFlow.md"
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de Sistema BudgetFlow"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Abrir selector rápido": false,
+      "graph:Abrir vista gráfica": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false
+    }
+  },
+  "active": "8f5d75b77ba7e999",
+  "lastOpenFiles": [
+    "Casos de Uso/Crear y gestionar Presupuestos.md",
+    "Sistema BudgetFlow.md",
+    "Casos de Uso/Generación de reportes.md",
+    "Casos de Uso/Registrar ingresos y gastos.md",
+    "Casos de Uso/Establecer objetivos de ahorro o inversión.md",
+    "Casos de Uso/Análisis de tendencias de gastos.md",
+    "Casos de Uso",
+    "Casos de Uso/Monitoreo de flujo de caja.md",
+    "Casos de Uso/Notificaciones de alertas.md",
+    "Casos de Uso/Presupuestos gestionados por equipos de trabajo.md"
+  ]
+}

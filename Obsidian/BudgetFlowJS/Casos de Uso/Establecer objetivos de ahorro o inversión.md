@@ -1,0 +1,1 @@
+El usuario establece metas de ahorro o inversión dentro de un presupuesto y realiza un seguimiento.

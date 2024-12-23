@@ -1,0 +1,3 @@
+El usuario registra diariamente sus ingresos y gastos, los cuales se clasifican en categorías predefinidas
+
+Ejemplo: ...

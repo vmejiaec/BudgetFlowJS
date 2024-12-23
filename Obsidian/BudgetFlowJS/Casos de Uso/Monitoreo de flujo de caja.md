@@ -1,0 +1,1 @@
+El sistema genera reportes de gastos, ahorros, ingresos y estado financiero general

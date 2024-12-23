@@ -1,0 +1,1 @@
+El sistema envía alertas al usuario cuando el presupuesto se excede o cuando el flujo de efectivo es insuficiente.

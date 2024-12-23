@@ -1,0 +1,1 @@
+El sistema permite al usuario compartir su presupuesto o flujo de efectivo con otros miembros del equipo de trabajo para una mejor colaboración
